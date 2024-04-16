@@ -1,4 +1,4 @@
-h1 {color: brown;
+h1 {color: rgb(11, 247, 101);
 }
 #texto-animado {
     font-family: 'Arial', sans-serif;
@@ -30,3 +30,4 @@ h1 {color: brown;
         transform: translateX(0);
     }
 }
+
