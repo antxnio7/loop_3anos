@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual o melhor professor da história?");
 
     
-    if (respostaTime.toLowerCase() === "ALMEIDA") {
+    if (respostaTime.toLowerCase() === "almeida") {
       alert("Isso mesmo! O Almeida é o melhor Professor!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
